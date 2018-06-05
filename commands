@@ -1,0 +1,12 @@
+in the command line:
+git init - turns the current folder to a repository and to "master branch"
+git status - shows the current status
+git config --"" - configurs elements in the git
+git add . - adds all files to staging area
+git commit -m "" - commit the changes made to the git repository with a message
+git log --oneline - see a brief log of commits
+git checkout ID fileName  - brings that commit to the current working area
+git reset HEAD fileName - reset to last commit
+git remote add origin "repository url" - add the remote online repository
+git push -u origin master - push the local git repository to the origin ,aster branch
+git clone "repository url"
